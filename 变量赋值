@@ -1,0 +1,12 @@
+public class VarTest01{
+	public static void main(String[] args){
+		int i=100;
+		System.out.println(i);
+		int a=10;
+		int b,c=30;
+		b=c;
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+	}
+}
